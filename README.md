@@ -20,4 +20,5 @@ Perth meetups info
 | Time    | Item                     | Who / How much                 |
 |:--------|:---                      | :------------------------------|
 |  | Learnings from building a toy microcontroller project in Rust | Nick D |
+|  | Modelling using egui | Leo T |
 |  | Model-View-Controller (MVC) in Rust | Ava Black |
