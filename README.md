@@ -20,4 +20,4 @@ Perth meetups info
 | Time    | Item                     | Who / How much                 |
 |:--------|:---                      | :------------------------------|
 |  | Learnings from building a toy microcontroller project in Rust | Nick D |
-|  | Idiomatic localizations for Rust | Angus Finch |
+|  | Model-View-Controller (MVC) in Rust | Ava Black |
